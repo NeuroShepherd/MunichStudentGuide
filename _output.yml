@@ -2,6 +2,8 @@ bookdown::bs4_book:
   css: style.css
   theme:
     primary: "#096B72"
+  includes:
+    in_header: [google_analytics.html]
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

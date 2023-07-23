@@ -1,7 +1,7 @@
 --- 
 title: "Munich Student Guide"
 author: "Pat C"
-date: "`r Sys.Date()`"
+date: "2023-07-23"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -30,7 +30,7 @@ I welcome any additional details, methods, and other contributions to this book 
 
 As I have only relocated from abroad to Germany once in my life, I can neither say the experiences nor information I provide here is the definitive truth or the only way to accomplish relocating. Moreover, I documented as many of the procedures as I could at the time of my relocation, but I almost certainly failed to write down every piece of information that might be of interest to others and so there are likely small gaps that others could fill in.
 
-To make contributions, please either open an issue/pull request on GitHub or send an email to `r params$help_email`
+To make contributions, please either open an issue/pull request on GitHub or send an email to placeholder@email.com
 
 ## Disclaimers
 

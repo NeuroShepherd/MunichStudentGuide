@@ -9,5 +9,56 @@
 :::
 
 
+## Student Dorms
+
+* Least expensive option by far
+* Prices typically in the range of €200-400/month
+* Can only stay as long as you remain a student
+
+### Studentenwerk München
+
+* Generally desirable locations
+  - Include a Leaflet map of the addresses with links
+* Long waiting lists, and need to already be accepted to a university to join these lists
+  - Typically need to wait 3+ semesters so these are typically not a viable option for newcomers unless you happen to win a lottery space
+* Rooms typically around 10 m^2
+* Shared kitchens and community events
+
+### Katholische Dorms
+
+* Similar in price, size, and layout to Studentenwerk dorms along with community kitchens and events
+* Main difference, unsurprisingly , is the celebration of various Catholic holidays and related events
+* However, participation in such events is entirely voluntary, and there doesn't seem to be a strong social pressure to participate
+* Students of all faiths are welcome in these dorms from what I've heard
+
+## Shared Apartments
+
+* WGs or Wohnungenheim(?) are shared apartments, generally 2-7 people with individual rooms and shared kitchen + possibly a living room (although this is )
+* Typically can get larger and nicer rooms in more specific neighborhoods than the dorms
+* More expensive than any of the dorm options, generally in the range of €400-900/month
+  - Scrape some summary stats info from WG Gesucht?
+* Generally have to spend a lot of time searching; most labor intensive process
+  - Apply to openings online then, if invited, typically have to interview for the apartment
+  - Not unusual to have to message 100+ apartments just to receive invites for a handful of interviews
+  - Need to send messages ideally in the first few minutes or hour that a room is posted online.
+  
+### Where to Search
+
+* WG Gesucht is likely the most common website
+* ...
+* Friends or friends-of-friends can be a much more reliable and expedient approach to securing an apartment
+
+### Important Notes
+
+* Warmmiete vs. Kaltmiete (warm rent vs. cold rent)
+  - When looking at apartments, most places will advertise the Warmmiete which is the entire price of the room including utilities. If you see Kaltmiete advertised, however, I would recommend estimating another €100-150/month in expenses.
+
+
+## Single Apartments
+
+* Quite expensive in and around the city, typically more than €1200/month
+* All the benefits and drawbacks of living alone apply
+* Possibly the most direct route to finding a home in Munich
+
 
 

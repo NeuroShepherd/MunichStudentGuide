@@ -6,3 +6,22 @@ output_dir: "docs"
 language:
   ui:
     chapter_name: ""
+rmd_files:
+  [
+    "essentials.Rmd",
+    "uni-registration.Rmd",
+    "apartments.Rmd",
+    "visas.Rmd",
+    "funding.Rmd",
+    "anmeldung.Rmd",
+    "residence-permit.Rmd",
+    "insurance.Rmd",
+    "banking.Rmd",
+    "shopping.Rmd",
+    "work-regulations.Rmd",
+    "temp-permit.Rmd",
+    "navigation.Rmd",
+    "mail.Rmd",
+    "driving.Rmd",
+    "discounts.Rmd"
+  ]

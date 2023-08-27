@@ -8,6 +8,7 @@ language:
     chapter_name: ""
 rmd_files:
   [
+    "index.Rmd",
     "essentials.Rmd",
     "uni-registration.Rmd",
     "apartments.Rmd",

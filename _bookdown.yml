@@ -7,8 +7,7 @@ language:
   ui:
     chapter_name: ""
 rmd_files:
-  [
-    "index.Rmd",
+  ["index.Rmd",
     "essentials.Rmd",
     "uni-registration.Rmd",
     "apartments.Rmd",
@@ -24,5 +23,4 @@ rmd_files:
     "navigation.Rmd",
     "mail.Rmd",
     "driving.Rmd",
-    "discounts.Rmd"
-  ]
+    "discounts.Rmd"]

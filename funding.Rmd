@@ -4,7 +4,7 @@ params:
   funding_year: "2023"
   tax_threshold: "€520"
   min_wage_date: "October 1st, 2022"
-  min_wage_amount: "€12"
+  min_wage_amount: 12
 ---
 # Funding {#chapter-funding}
 
@@ -34,7 +34,7 @@ Most major scholarships for international students can be found on the [DAAD Sch
 
 ## Student Jobs
 
-Working part-time during one's studies is exceptionally common, and most students pick up positions as assistants at their university, as a waiter/waitress, or find some other part-time work to supplement their budgets. As of `r params$min_wage_date`, the minimum wage in Germany is `r params$min_wage_amount`, and students may earn up to `r params$tax_threshold` in mini jobs before being required to pay taxes. See the [DAAD Side Jobs page](https://www.daad.de/en/study-and-research-in-germany/first-steps-germany/side-jobs/) for additional details and links to source information. 
+Working part-time during one's studies is exceptionally common, and most students pick up positions as assistants at their university, as a waiter/waitress, or find some other part-time work to supplement their budgets. As of `r params$min_wage_date`, the minimum wage in Germany is €`r params$min_wage_amount`, and students may earn up to `r params$tax_threshold` in mini jobs before being required to pay taxes. See the [DAAD Side Jobs page](https://www.daad.de/en/study-and-research-in-germany/first-steps-germany/side-jobs/) for additional details and links to source information. 
 
 The rules for international students hoping to work can be somewhat complex and confusing in some situations, but, generally speaking, working less than 20 hours/week is acceptable so one can potentially earn ~€`r params$min_wage_amount*4*20`/month without any legal concerns. The [Work Regulations chapter](#chapter-work-regulations) covers these details in more detail.
 

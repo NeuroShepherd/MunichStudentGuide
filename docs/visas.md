@@ -1,6 +1,6 @@
 # Visas {#chapter-visas}
 
-## General Info
+## General Info {#visas-general-info}
 
 A quick note on terminology: _visas_ are documents allowing legal entry to a country for a specified purpose and period of time. These are distinct from residence permits which, as the name implies, state that you are officially a resident (of some status) of the country in question. Visas are obtained prior to initial entry, and residence permits can, in general, only be obtained **after** entry to the country. 
 
@@ -10,7 +10,7 @@ Unfortunately, the issue of visas is more complex than this book can reasonably 
 
 Congrats, you don't have to do anything to enter Germany as a student! You likely already knew this, however.
 
-### "Schengen Friends" 
+### "Schengen Friends" {#visas-schengen-friends}
 
 The "Schengen Friends" are countries which are not formally part of the Schengen zone, but have special agreements with Schgengen/EU countries allowing citizens of these countries to enter the zone without a visa (initially) and to stay in the zone for 90 out of any 180 day period. Such members include:
 
@@ -22,7 +22,7 @@ The "Schengen Friends" are countries which are not formally part of the Schengen
 * Australia
 * Most countries in Latin America
 
-A complete lsit of such countries can be found at this [Wiki page on the Schengen visa policies](https://en.wikipedia.org/wiki/Visa_policy_of_the_Schengen_Area).
+A complete lsit of such countries can be found at this [Wiki page on the Schengen visa policies](https://en.wikipedia.org/wiki/Visa_policy_of_the_Schengen_Area). A detailed list of countries from which citizens can enter Germany without a visa and apply for a residence permit directly can be found on the [Studying in Germany](https://www.studying-in-germany.org/student-residence-permit-germany/) website.
 
 Traditionally, citizens of these countries **do not** need to apply for specific student visas. In fact, some Germany embassies/consulates explicitly discourage these nationals from making appointments or otherwise attempting to obtain student visas. Instead, official recommendations have been to simply arrive in Germany on a Schengen tourist visa, and to apply for the student residence permit upon arrival
 

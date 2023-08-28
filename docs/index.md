@@ -1,7 +1,7 @@
 --- 
 title: "Munich Student Guide"
 author: "Pat C"
-date: "2023-08-27"
+date: "2023-08-28"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]

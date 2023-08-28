@@ -28,9 +28,13 @@ According to Germany's Federal Foreign Office, student's from non-EU countries m
 Most international students will ultimately need to opt for the [Sperrkonto](#banking-sperrkonto) option.
 
 
-### Scholarships
+### Scholarships {#funding-scholarships}
 
 Most major scholarships for international students can be found on the [DAAD Scholarship database](https://www.daad.de/en/study-and-research-in-germany/scholarships/). The site allows for searching based on type of study program, country of origin, degree level, and a variety of other helpful features enabling you to identify potential scholarships relevant to your background.
+
+### Other Funding {#funding-other}
+
+Some 
 
 ## Student Jobs
 

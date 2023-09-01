@@ -56,7 +56,7 @@ You may have heard that Germany is still incredibly reliant on cash, and that cr
 
 ### Options
 
-- [N26]() offers a quick and easy sign-up that can be done completely online. Note that you will need to complete a video call with their identify verification service provider, and this needs to be done in a private, quiet location. Have your passport ready. Can transfer money user-to-user and via IBAN
+- [N26](https://n26.com/r/patrickc4192) offers a quick and easy sign-up that can be done completely online. Note that you will need to complete a video call with their identify verification service provider, and this needs to be done in a private, quiet location. Have your passport ready. Can transfer money user-to-user and via IBAN
 - Revolut is quite popular, and offers similar user-to-user transfers and bank (IBAN) transfers
 - ...
 

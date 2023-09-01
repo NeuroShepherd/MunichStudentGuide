@@ -1,3 +1,37 @@
 # Anmeldung (Registration) {#chapter-anmeldung}
 
+## What is the Anmelduing? {#anmeldung-description}
+
+An Anmeldung is simply translated as a "registration", and is commonly used in the context of "Anmeldung einer Wohnung" or registration of an apartment. This does not mean you need to do anything to register the apartment, home, or building itself; rather, everyone who lives in Germany is required to register their current place of address with the municipality in which they live generally within 30 days of moving in. 
+
+### "Not KVR Eligible"
+
+Lies. Damned lies.
+
+> Sollte Ihnen die Wohnungsgeberbestätigung nicht oder noch nicht vorliegen, können Sie eine Erklärung zur fehlenden Wohnungsgeberbestätigung abgeben.
+
+
+## Required Documents {#anmelduing-documents}
+
+German KVR page (https://stadt.muenchen.de/service/info/wohnsitz-anmelden-oder-ummelden/1063475/n0/), and the document can be found at Anmeldeformular link. Fortunately, there is an official translation into English of the webpage and the registration document too: (https://stadt.muenchen.de/en/info/residence-registration.html).
+
+* Wohnungsgeberbestätigung: there is a form available online, but any statement with the following components will be sufficient to show confirmation that you are living at the location
+  - address of the apartment
+  - name and address of the landlord
+  - move-in date
+  - your name
+* Meldeschein/Anmeldeformular
+
+> Sollte Ihnen die Wohnungsgeberbestätigung nicht oder noch nicht vorliegen, können Sie eine Erklärung zur fehlenden Wohnungsgeberbestätigung abgeben.
+
+## Making an Appointment
+
+
+## Steueridentifikationsnummer {#anmeldung-steuerid}
+
+For some reason, registering for the first time in Germany will result in the government generation a Steueridentifikationsnummer (Steuer-ID) for you. Keep an eye out for this in the mail at the location you have registered in the following 2-4 weeks.
+
+
+
+
 

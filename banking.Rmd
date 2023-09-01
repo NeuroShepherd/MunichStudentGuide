@@ -1,8 +1,13 @@
+```{r setup, include=FALSE}
+# stop the scientific formatting of numbers
+options(scipen = 999)
+```
+
 # Banking {#chapter-banking}
 
 ## International Money Transfers
 
-Most of you will be moving from countries that do not use the Euro as its currency, but, as noted in the [Funding chapter](#chapter-funding), you will need to convert your local currency to obtain at least €`r MunichStudentGuide::global_parameters$funding_amount` for your [Sperrkonot](#banking-sperrkonto), and you will likely need €1000-2000 more for your initial living expenses after relocating including registration fees, housing, food, etc.
+Most of you will be moving from countries that do not use the Euro as its currency, but, as noted in the [Funding chapter](#chapter-funding), you will need to convert your local currency to obtain at least €`r MunichStudentGuide::global_parameters$funding_amount` for your [Sperrkonto](#banking-sperrkonto), and you will likely need €1000-2000 more for your initial living expenses after relocating including registration fees, housing, food, etc.
 
 Virtually all banks will be able to process requests for international transfers via wire or similar methods. However, such transfers are generally quite expensive; an explicit international wire transfer fee may be applied, and, more importantly, the exchange rates offered by your bank might cost you dozens to hundreds of extra euros. Rather than relying on your bank to initiate transfers from your local currency to euros, I recommend using a third-party service.
 

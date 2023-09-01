@@ -1,8 +1,10 @@
+
+
 # Banking {#chapter-banking}
 
 ## International Money Transfers
 
-Most of you will be moving from countries that do not use the Euro as its currency, but, as noted in the [Funding chapter](#chapter-funding), you will need to convert your local currency to obtain at least €1.1208\times 10^{4} for your [Sperrkonot](#banking-sperrkonto), and you will likely need €1000-2000 more for your initial living expenses after relocating including registration fees, housing, food, etc.
+Most of you will be moving from countries that do not use the Euro as its currency, but, as noted in the [Funding chapter](#chapter-funding), you will need to convert your local currency to obtain at least €11208 for your [Sperrkonto](#banking-sperrkonto), and you will likely need €1000-2000 more for your initial living expenses after relocating including registration fees, housing, food, etc.
 
 Virtually all banks will be able to process requests for international transfers via wire or similar methods. However, such transfers are generally quite expensive; an explicit international wire transfer fee may be applied, and, more importantly, the exchange rates offered by your bank might cost you dozens to hundreds of extra euros. Rather than relying on your bank to initiate transfers from your local currency to euros, I recommend using a third-party service.
 
@@ -35,7 +37,7 @@ In contrast, at the time of writing, my US bank offered an exchange rate of $1 U
 
 ## Sperrkonto {#banking-sperrkonto}
 
-- must fund a Sperrkonto ("blocked account") to the federal minimum amount which is €1.1208\times 10^{4}/year in 2023. This amount generally increases a few hundred Euros every year
+- must fund a Sperrkonto ("blocked account") to the federal minimum amount which is €11208/year in 2023. This amount generally increases a few hundred Euros every year
 - There's more competition amongst Sperrkonto providers than amongst the wire transfer companies in my opinion, and the primary providers are listed below:
   <!-- - [Coracle]() -->
   - Coracle

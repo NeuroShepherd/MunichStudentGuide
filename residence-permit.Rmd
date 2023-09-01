@@ -1,3 +1,8 @@
+```{r setup, include=FALSE}
+# stop the scientific formatting of numbers
+options(scipen = 999)
+```
+
 # (PART) After Arrival {-}
 
 # Residence Permit {#chapter-residence-permit}

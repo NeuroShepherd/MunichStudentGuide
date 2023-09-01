@@ -20,7 +20,7 @@ The residence permits are generally valid for 1 year, but sometimes they will be
 * Immatrikulationsbescheinigung: certificate of enrollment from your university
 * Krankenversicherung: proof of [health insurance](#chapter-insurances)
   - Must submit Immatrikulationsbescheinigung to health insurance provider first!
-* Proof of financing: in theory, this can be any combination of the options listed below as long as you meet the minimum threshold value of €€11,208/year. The most simple option is to pick one of these.
+* Proof of financing: in theory, this can be any combination of the options listed below as long as you meet the minimum threshold value of €1.1208\times 10^{4}/year. The most simple option is to pick one of these.
   - [Sperrkonto](#banking-sperrkonto)
   - [Scholarship awards](#funding-scholarships)
   - [Other guarantees](#funding-other)

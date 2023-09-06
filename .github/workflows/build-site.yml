@@ -3,8 +3,8 @@ name: build-site
 on:
   push:
     branches: [master]
-  merge:
-    branches: [master]
+  # merge:
+  #   branches: [master]
 
 
 jobs:

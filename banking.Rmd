@@ -41,8 +41,7 @@ In contrast, at the time of writing, my US bank offered an exchange rate of $1 U
 
 - must fund a Sperrkonto ("blocked account") to the federal minimum amount which is €`r MunichStudentGuide::global_parameters$funding_amount`/year in `r MunichStudentGuide::global_parameters$funding_year`. This amount generally increases a few hundred Euros every year
 - There's more competition amongst Sperrkonto providers than amongst the wire transfer companies in my opinion, and the primary providers are listed below:
-  <!-- - [Coracle](`r MunichStudentGuide::global_parameters$coracle_referral_link`) -->
-  - Coracle
+  - [Coracle](`r MunichStudentGuide::global_parameters$coracle_referral_link`)
   - Expatrio
   - Fintiba
   - Sparkasse (don't know much about this option)

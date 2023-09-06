@@ -9,7 +9,7 @@ global_parameters <- list(
   min_wage_date = "October 1st, 2022",
   min_wage_amount = 12,
   wise_referral_link = "https://wise.com/invite/dic/patrickc2551",
-  coracle_referral_link = "",
+  coracle_referral_link = "https://www.coracle.de/?ref=crclpatref",
   n26_referral_link = "https://n26.com/r/patrickc4192"
 )
 

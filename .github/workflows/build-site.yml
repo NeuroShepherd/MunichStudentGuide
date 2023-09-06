@@ -1,0 +1,23 @@
+name: build-site
+
+on:
+  push:
+    branches: [master]
+  merge:
+    branches: [master]
+
+
+jobs:
+  redeploy_site:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Render bookdown
+        run: bookdown::render_book("index.Rmd", quiet = TRUE)
+
+      - name: Deploy book
+        with:
+          branch: gh-pages
+          folder: docs
+
